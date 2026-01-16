@@ -610,5 +610,3 @@
             }
         });
     </script>
-</body>
-</html>
